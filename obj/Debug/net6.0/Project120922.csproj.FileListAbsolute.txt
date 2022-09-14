@@ -1,0 +1,15 @@
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\bin\Debug\net6.0\Project120922.exe
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\bin\Debug\net6.0\Project120922.deps.json
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\bin\Debug\net6.0\Project120922.runtimeconfig.json
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\bin\Debug\net6.0\Project120922.dll
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\bin\Debug\net6.0\Project120922.pdb
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\Project120922.csproj.AssemblyReference.cache
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\Project120922.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\Project120922.AssemblyInfoInputs.cache
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\Project120922.AssemblyInfo.cs
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\Project120922.csproj.CoreCompileInputs.cache
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\Project120922.dll
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\refint\Project120922.dll
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\Project120922.pdb
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\Project120922.genruntimeconfig.cache
+C:\Users\Isadora\Desktop\Projects\Capitulo 9\Enumeração\Projet 120922\Project120922\obj\Debug\net6.0\ref\Project120922.dll
